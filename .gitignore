@@ -35,3 +35,10 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/macos
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
+
+vendor/*
+tmp/*
+.idea
