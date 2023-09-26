@@ -42,3 +42,6 @@ Temporary Items
 vendor/*
 tmp/*
 .idea
+.env
+*.sqlite3
+log/*
