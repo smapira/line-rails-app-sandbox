@@ -55,6 +55,8 @@ open URL
 
 ## LINE Messaging
 
+https://github.com/smapira/line-rails-app-sandbox/assets/25024587/9045d52d-2159-4f01-9c6c-348e26a2c7fd
+
 ### Setting Up Environment Variables
 
 Before proceeding, ensure that you have filled in the following environment variables in your server environment from [LINE Developers](https://developers.line.biz/console/):
