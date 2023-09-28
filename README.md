@@ -11,6 +11,10 @@ This repository is the setup and integration steps for incorporating LINE Login 
 
 ## Line Login
 
+
+https://github.com/smapira/line-rails-app-sandbox/assets/25024587/8020c85f-8229-4fd7-83cd-2801cd78de55
+
+
 ### Setting Up Environment Variables
 
 Before proceeding, ensure that you have filled in the following environment variables in your server environment from [LINE Developers](https://developers.line.biz/console/):
