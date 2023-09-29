@@ -8,6 +8,7 @@ This repository is the setup and integration steps for incorporating LINE Login 
 * devise (4.9.2)
 * line-bot-api (1.28.0)
 * typhoeus (1.4.0)
+* Line Login (v2.1)
 
 ## Line Login
 
